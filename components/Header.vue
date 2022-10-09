@@ -8,8 +8,8 @@
           <div class="display-t">
             <div class="display-tc animate-box" data-animate-effect="fadeIn">
               <h1>Lucia &amp; Francesco</h1>
-              <h2>We Are Getting Married</h2>
-              <div class="simply-countdown simply-countdown-one"></div>
+              <h2>Ci sposiamo tra</h2>
+              <Countdown />
               <p><a href="#" class="btn btn-default btn-sm">Save the date</a></p>
             </div>
           </div>
