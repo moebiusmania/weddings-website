@@ -1,0 +1,33 @@
+
+# Build the website to produce the static files & deploy them to GH pages
+
+name: Build & deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.7.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm ci
+      - run: npm run generate
+
+      - name: GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.0.1
+        with:
+          # Build directory to deploy
+          build_dir: .output/public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
