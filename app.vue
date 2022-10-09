@@ -26,10 +26,6 @@ useHead({
     },
     {
       rel: 'stylesheet',
-      href: 'css/bootstrap.css',
-    },
-    {
-      rel: 'stylesheet',
       href: 'css/magnific-popup.css',
     },
     {
