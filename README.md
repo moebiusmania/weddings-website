@@ -1,20 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Weddings website
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+A [Nuxt 3](https://v3.nuxtjs.org/) project go generate a single page website for wedding website, original template from [FreeHTML5](https://www.free-css.com/free-css-templates/page227/wedding).
 
 ## Setup
 
-Make sure to install the dependencies:
+Clone the repo then make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
+npm ci
 ```
 
 ## Development Server
@@ -27,10 +20,10 @@ npm run dev
 
 ## Production
 
-Build the application for production:
+Generate the static website:
 
 ```bash
-npm run build
+npm run generate
 ```
 
 Locally preview production build:
@@ -39,4 +32,8 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+## Deploy
+The generated static website is hosted on this same repo as a [Github Pages](https://pages.github.com/) and accessible through a custom domain and automatically deployed with automations from [Github Actions](https://github.com/features/actions).
+
+## License
+The original template is distributed through [Creative Commons](https://www.free-css.com/help-and-support/copyright-notice#terms-of-use) license, the custom code in this repo is released under the [MIT license](LICENSE).
