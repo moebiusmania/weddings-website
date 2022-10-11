@@ -5,6 +5,6 @@ const isProd = (): boolean => process.env.NODE_ENV === 'production'
 export default defineNuxtConfig({
   app: {
     baseURL: isProd() ? "/weddings-website/" : "/",
-    cdnURL: isProd() ? "https://moebiusmania.github.io/weddings-website/" : "",
+    cdnURL: isProd() ? "https://moebiusmania.github.io/weddings-website" : "",
   }
 })
