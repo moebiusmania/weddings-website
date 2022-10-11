@@ -14,7 +14,7 @@
             <img src="assets/images/groom.jpg" alt="groom" class="img-responsive">
           </div>
           <div class="desc-groom">
-            <h3>Joefrey Mahusay</h3>
+            <h3>Lucia</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
               blind texts. Separated they live in Bookmarksgrove</p>
           </div>
@@ -25,7 +25,7 @@
             <img src="assets/images/bride.jpg" alt="groom" class="img-responsive">
           </div>
           <div class="desc-bride">
-            <h3>Sheila Mahusay</h3>
+            <h3>Francesco</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
               blind texts. Separated they live in Bookmarksgrove</p>
           </div>

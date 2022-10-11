@@ -10,7 +10,11 @@
               <h1>Lucia &amp; Francesco</h1>
               <h2>Ci sposiamo tra</h2>
               <Countdown />
-              <p><a href="#" class="btn btn-default btn-sm">Save the date</a></p>
+              <p><a href="https://www.google.com/calendar" target="_blank" rel="noopener nofollow"
+                  class="btn btn-default btn-sm">Save the date (Google Calendar)</a></p>
+              <p><a href="https://www.google.com/calendar" target="_blank" rel="noopener nofollow"
+                  class="btn btn-default btn-sm">Save
+                  the date (Apple Calendar)</a></p>
             </div>
           </div>
         </div>

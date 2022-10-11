@@ -4,9 +4,8 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
           <span>We Love Each Other</span>
-          <h2>Our Story</h2>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-            blind texts.</p>
+          <h2>Per chi viaggia</h2>
+          <p>Piccoli aiuti per gli ospiti che arrivano da lontano.</p>
         </div>
       </div>
       <div class="row">
@@ -16,8 +15,8 @@
               <div class="timeline-badge" style="background-image:url(images/couple-1.jpg);"></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h3 class="timeline-title">First We Meet</h3>
-                  <span class="date">December 25, 2015</span>
+                  <h3 class="timeline-title">Navetta dalla stazione</h3>
+                  <!-- <span class="date">December 25, 2015</span> -->
                 </div>
                 <div class="timeline-body">
                   <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
@@ -30,8 +29,8 @@
               <div class="timeline-badge" style="background-image:url(images/couple-2.jpg);"></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h3 class="timeline-title">First Date</h3>
-                  <span class="date">December 28, 2015</span>
+                  <h3 class="timeline-title">Albergo convenzionato</h3>
+                  <!-- <span class="date">December 28, 2015</span> -->
                 </div>
                 <div class="timeline-body">
                   <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there

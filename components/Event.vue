@@ -4,8 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-          <span>Our Special Events</span>
-          <h2>Wedding Events</h2>
+          <span>Indicazioni</span>
+          <h2>Come raggiungerci</h2>
         </div>
       </div>
       <div class="row">
@@ -25,9 +25,7 @@
                     <span>Monday 28</span>
                     <span>November, 2016</span>
                   </div>
-                  <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                    live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                    large language ocean.</p>
+                  <p>Descrizione (opzionale) + link a <a href="#">Maps</a></p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6 text-center">
@@ -43,9 +41,7 @@
                     <span>Monday 28</span>
                     <span>November, 2016</span>
                   </div>
-                  <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                    live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                    large language ocean.</p>
+                  <p>Descrizione (opzionale) + link a <a href="#">Maps</a></p>
                 </div>
               </div>
             </div>
