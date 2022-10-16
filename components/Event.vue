@@ -25,7 +25,8 @@
                     <span>Mercoledì 28</span>
                     <span>Dicembre, 2022</span>
                   </div>
-                  <p><a href="#" rel="noopener nofollow" target="_blank">Vedi su Google Maps</a></p>
+                  <p><a href="https://maps.app.goo.gl/htid3D3qQV2XYsVJ8" rel="noopener nofollow" target="_blank">Vedi su
+                      Google Maps</a></p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6 text-center">
@@ -41,7 +42,8 @@
                     <span>Mercoledì 28</span>
                     <span>Dicembre, 2022</span>
                   </div>
-                  <p><a href="#" rel="noopener nofollow" target="_blank">Vedi su Google Maps</a></p>
+                  <p><a href="https://maps.app.goo.gl/oE7jrNMPjwUGhYbu8" rel="noopener nofollow" target="_blank">Vedi su
+                      Google Maps</a></p>
                 </div>
               </div>
             </div>

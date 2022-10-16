@@ -5,7 +5,7 @@
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
           <!-- <span>We Love Each Other</span> -->
           <h2>Informazioni utili</h2>
-          <p>Durante la cerimonia religiosa, per favore, siate nostri ospiti. A catturare i momenti speciali penserà il
+          <p>Durante la cerimonia religiosa, per favore, sii nostro ospite. A catturare i momenti speciali penserà il
             fotografo,
             Grazie</p>
         </div>
@@ -21,8 +21,9 @@
                   <!-- <span class="date">December 25, 2015</span> -->
                 </div>
                 <div class="timeline-body">
-                  <p>Segnalaci particolari esigenze come intolleranze alimentari, allergie e diete nella casella qui
-                    sotto.</p>
+                  <p>Un cuoco dedicato seguirà la preparazione dei piatti per i nostri ospiti con intolleranze o
+                    allergie alimentari e diete
+                    speciali. Segnalale in anticipo alla sposa.</p>
                 </div>
               </div>
             </li>
@@ -36,7 +37,8 @@
                 <div class="timeline-body">
                   <p>L'uscita autostradale più vicina alla Sala Ricevimenti è "Foggia-Zona Industriale", si può pagare
                     il pedaggio solo con
-                    telepass o carte di credito. Hai bisogno di usufruire del servizio navetta organizzato da noi?</p>
+                    telepass o carte di credito. Hai bisogno di usufruire del servizio navetta organizzato da noi?
+                    Contatta lo sposo.</p>
                 </div>
               </div>
             </li>

@@ -1,13 +1,13 @@
 <script lang="ts" setup>
 useHead({
-  title: "Lucia & Francesco",
+  title: "Matrimonio Lucia & Francesco",
   htmlAttrs: {
     lang: "it-IT",
   },
   meta: [
     {
       name: 'description',
-      content: "Matrimobio Lucia & Francesco"
+      content: "Matrimonio Lucia & Francesco"
     },
     {
       name: 'author',
