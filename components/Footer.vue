@@ -6,11 +6,8 @@
         <div class="col-md-12 text-center">
           <p>
             <small class="block">&copy; 2022. Some Rights Reserved.</small>
-            <small class="block">Developed by <a href="https://salvatorelaisa.blog/" target="_blank"
-                rel="noopener nofollow">Salvatore Laisa</a>, source and <a
-                href="https://github.com/moebiusmania/weddings-website" target="_blank"
-                rel="noopener nofollow">credits</a>.
-              <!-- <span>Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></span> -->
+            <small class="block">Website <a href="https://github.com/moebiusmania/weddings-website" target="_blank"
+                rel="noopener nofollow">source and credits</a>.
             </small>
           </p>
           <!-- <p>

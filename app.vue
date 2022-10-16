@@ -16,6 +16,23 @@ useHead({
   ],
   link: [
     {
+      rel: "icon",
+      href: "favicon-16.png",
+      type: "image/png",
+    },
+    {
+      rel: "icon",
+      href: "favicon-32.png",
+      type: "image/png",
+      size: "32"
+    },
+    {
+      rel: "icon",
+      href: "favicon-64.png",
+      type: "image/png",
+      size: "64"
+    },
+    {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700'
     },
@@ -60,10 +77,10 @@ useHead({
     <Couple />
     <Event />
     <Story />
-    <!-- <Gallery /> -->
+    <!-- <Gallery />
     <Counter />
     <Testimonial />
-    <Services />
+    <Services /> -->
     <Form />
     <Footer />
   </div>

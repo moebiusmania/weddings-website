@@ -3,53 +3,59 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-          <span>We Love Each Other</span>
-          <h2>Per chi viaggia</h2>
-          <p>Piccoli aiuti per gli ospiti che arrivano da lontano.</p>
+          <!-- <span>We Love Each Other</span> -->
+          <h2>Informazioni utili</h2>
+          <p>Durante la cerimonia religiosa, per favore, siate nostri ospiti. A catturare i momenti speciali penserà il
+            fotografo,
+            Grazie</p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-12 col-md-offset-0">
           <ul class="timeline animate-box">
             <li class="animate-box">
-              <div class="timeline-badge" style="background-image:url(images/couple-1.jpg);"></div>
+              <div class="timeline-badge" style="background-image:url(images/photo5.jpg);"></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h3 class="timeline-title">Navetta dalla stazione</h3>
+                  <h3 class="timeline-title">Intolleranze alimentari</h3>
                   <!-- <span class="date">December 25, 2015</span> -->
                 </div>
                 <div class="timeline-body">
-                  <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                    live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                    large language ocean.</p>
+                  <p>Segnalaci particolari esigenze come intolleranze alimentari, allergie e diete nella casella qui
+                    sotto.</p>
                 </div>
               </div>
             </li>
             <li class="timeline-inverted animate-box">
-              <div class="timeline-badge" style="background-image:url(images/couple-2.jpg);"></div>
+              <div class="timeline-badge" style="background-image:url(images/photo6.jpg);"></div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h3 class="timeline-title">Albergo convenzionato</h3>
+                  <h3 class="timeline-title">Trasporti</h3>
                   <!-- <span class="date">December 28, 2015</span> -->
                 </div>
                 <div class="timeline-body">
-                  <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                    live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                    large language ocean.</p>
+                  <p>L'uscita autostradale più vicina alla Sala Ricevimenti è "Foggia-Zona Industriale", si può pagare
+                    il pedaggio solo con
+                    telepass o carte di credito. Hai bisogno di usufruire del servizio navetta organizzato da noi?</p>
                 </div>
               </div>
             </li>
             <li class="animate-box">
-              <div class="timeline-badge" style="background-image:url(images/couple-3.jpg);"></div>
+              <div class="timeline-badge" style="background-image:url(images/photo7.jpg);"></div>
               <div class="timeline-panel">
-                <div class="timeline-heading">
+                <!-- <div class="timeline-heading">
                   <h3 class="timeline-title">In A Relationship</h3>
                   <span class="date">January 1, 2016</span>
-                </div>
+                </div> -->
                 <div class="timeline-body">
-                  <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                    live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-                    large language ocean.</p>
+                  <p>Per il nostro matrimonio, il regalo più bello sarà la tua presenza ma se volessi farci anche un
+                    altro dono puoi
+                    contribuire alla realizzazione dei nostri progetti futuri con buste o versamenti al seguente
+                    <strong>IBAN:</strong>
+                  </p>
+                  <p>
+                    <code>IT12865283765827634</code>
+                  </p>
                 </div>
               </div>
             </li>

@@ -10,7 +10,7 @@ const minutes: Ref<number> = ref(0)
 const getDifference = (): void => {
   const difference: Duration = intervalToDuration({
     start: new Date(),
-    end: new Date(2022, 11, 28, 12)
+    end: new Date(2022, 11, 28, 11)
   });
 
   months.value = difference.months

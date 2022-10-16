@@ -409,7 +409,7 @@ figure {
 .fh5co-cover {
 	height: 900px;
 	background-size: cover;
-	// background-position: center center;
+	background-position: center center;
 	background-repeat: no-repeat;
 	position: relative;
 	width: 100%;
@@ -431,6 +431,7 @@ figure {
 
 	@media screen and (max-width: $screen-sm) {
 		height: 600px;
+		background-position: center right;
 	}
 
 	.display-t,
@@ -1129,6 +1130,23 @@ form {
 
 .fh5co-section-gray {
 	background: rgba($brand-black, .04);
+}
+
+#fh5co-couple-story,
+#fh5co-event {
+	@media screen and (max-width: $screen-sm) {
+		.fh5co-heading {
+			margin-bottom: 2.5em;
+		}
+
+		.container {
+			padding: 0;
+		}
+
+		.event-wrap:first-child {
+			margin-bottom: 20px;
+		}
+	}
 }
 
 
