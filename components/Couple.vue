@@ -11,7 +11,7 @@
       <div class="couple-wrap animate-box">
         <div class="couple-half">
           <div class="groom">
-            <img src="images/photo2.jpg" alt="groom" class="img-responsive">
+            <img src="assets/images/photo2.jpg" alt="groom" class="img-responsive">
           </div>
           <div class="desc-groom">
             <h3>Come ci siamo conosciuti</h3>
@@ -25,7 +25,7 @@
         <p class="heart text-center"><i class="icon-heart2"></i></p>
         <div class="couple-half">
           <div class="bride">
-            <img src="images/photo3.jpg" alt="groom" class="img-responsive">
+            <img src="assets/images/photo3.jpg" alt="groom" class="img-responsive">
           </div>
           <div class="desc-bride">
             <h3>La proposta di matrimonio</h3>
