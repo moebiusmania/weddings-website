@@ -14,7 +14,7 @@
             <div class="col-md-10 col-md-offset-1">
               <div class="col-md-6 col-sm-6 text-center">
                 <div class="event-wrap animate-box">
-                  <h3>Chiesa Santa Maria del Carmine</h3>
+                  <h3>Chiesa: Santa Maria del Carmine</h3>
                   <div class="event-col">
                     <i class="icon-clock"></i>
                     <span>ore 11:00</span>
@@ -31,7 +31,7 @@
               </div>
               <div class="col-md-6 col-sm-6 text-center">
                 <div class="event-wrap animate-box">
-                  <h3>Feudo della Selva</h3>
+                  <h3>Ristorante: Feudo della Selva</h3>
                   <div class="event-col">
                     <i class="icon-clock"></i>
                     <span>ore 14:00</span>

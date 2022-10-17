@@ -43,3 +43,66 @@ onMounted(() => {
     </div> -->
   </section>
 </template>
+
+<style lang="scss">
+@import "assets/sass/overrides.scss";
+
+
+.simply-countdown {
+  margin-bottom: 2em;
+}
+
+.simply-countdown>.simply-section {
+  /* coutndown blocks */
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: rgba($brand-primary, .5);
+  margin: 0 4px;
+  @include border-radius(50%);
+  position: relative;
+
+  animation: pulse 1s ease infinite,
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.05);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.simply-countdown>.simply-section>div {
+  /* countdown block inner div */
+  display: table-cell;
+  vertical-align: middle;
+  height: 100px;
+  width: 100px;
+}
+
+.simply-countdown>.simply-section .simply-amount,
+.simply-countdown>.simply-section .simply-word {
+  display: block;
+  color: rgba($brand-white, 1);
+  /* amounts and words */
+}
+
+.simply-countdown>.simply-section .simply-amount {
+  font-size: 30px;
+  /* amounts */
+}
+
+.simply-countdown>.simply-section .simply-word {
+  color: rgba($brand-white, .7);
+  text-transform: uppercase;
+  font-size: 12px;
+  /* words */
+}
+</style>

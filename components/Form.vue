@@ -8,7 +8,7 @@
           <p>Please Fill-up the form to notify you that you're attending. Thanks.</p>
         </div>
       </div>
-      <div class="row animate-box">
+      <!-- <div class="row animate-box">
         <div class="col-md-10 col-md-offset-1">
           <form class="form-inline">
             <div class="col-md-4 col-sm-4">
@@ -28,7 +28,7 @@
             </div>
           </form>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
