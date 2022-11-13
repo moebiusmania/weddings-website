@@ -1256,7 +1256,7 @@ form {
 		font-size: 60px;
 		margin-bottom: 10px;
 		line-height: 1.5;
-		font-weight: bold;
+		font-weight: 400;
 		color: $brand-primary;
 		font-family: $font-secondary;
 
@@ -2000,6 +2000,18 @@ form {
 		box-shadow: none;
 		border-color: $brand-primary;
 	}
+}
+
+.row.no-margin {
+	margin: 0;
+
+	.timeline-panel {
+		@media screen and (max-width: $screen-sm) {
+			padding: 20px;
+			width: 78% !important
+		}
+	}
+
 }
 
 .row-pb-md {

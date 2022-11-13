@@ -10,7 +10,7 @@
             Grazie</p>
         </div>
       </div>
-      <div class="row">
+      <div class="row no-margin">
         <div class="col-md-12 col-md-offset-0">
           <ul class="timeline animate-box">
             <li class="animate-box">
@@ -52,11 +52,11 @@
                 <div class="timeline-body">
                   <p>Per il nostro matrimonio, il regalo più bello sarà la tua presenza ma se volessi farci anche un
                     altro dono puoi
-                    contribuire alla realizzazione dei nostri progetti futuri con buste o versamenti al seguente
+                    contribuire alla realizzazione dei nostri progetti futuri con buste o versamenti sul seguente
                     <strong>IBAN:</strong>
                   </p>
                   <p>
-                    <code>IT12865283765827634</code>
+                    <code>IT74Y0306978634100000007969</code>
                   </p>
                 </div>
               </div>

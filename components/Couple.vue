@@ -5,7 +5,7 @@
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
           <h2>Ciao a tutti!</h2>
           <h3>28 Dicembre 2022, San Severo (FG)</h3>
-          <p>Ti invitiamo con gioia a festeggiare insieme il nostro grande giorno</p>
+          <p>Ti invitiamo con gioia a festeggiare insieme il nostro grande giorno.</p>
         </div>
       </div>
       <div class="couple-wrap animate-box">
@@ -15,11 +15,12 @@
           </div>
           <div class="desc-groom">
             <h3>Come ci siamo conosciuti</h3>
-            <p>Nel Giugno 2011 ci siamo incontrati all'oratorio e da allora non ci siamo più lasciati. Siamo cresciuti
+            <p>Nel Giugno 2011 ci siamo incontrati all'oratorio estivo e da allora non ci siamo più lasciati. Siamo
+              cresciuti
               insieme e
               abbiamo imparato a conoscerci ed amarci, accompagnandoci l'un l'altra nella scoperta delle nostre passioni
               e nel
-              raggiungimento dei nostri obiettivi accademici e professionali.</p>
+              raggiungimento dei nostri obiettivi.</p>
           </div>
         </div>
         <p class="heart text-center"><i class="icon-heart2"></i></p>

@@ -80,8 +80,9 @@ useHead({
     <!-- <Gallery />
     <Counter />
     <Testimonial />
-    <Services /> -->
-    <Form />
+    <Services /> 
+    <Form /> -->
+    <Quote />
     <Footer />
   </div>
 </template>

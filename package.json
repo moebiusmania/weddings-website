@@ -8,8 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "npm:nuxt3@latest",
-    "sass": "^1.55.0"
+    "nuxt": "^3.0.0-rc.13",
+    "sass": "^1.56.1"
   },
   "dependencies": {
     "date-fns": "^2.29.3"
