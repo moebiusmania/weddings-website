@@ -6,8 +6,8 @@
           <!-- <span>We Love Each Other</span> -->
           <h2>Informazioni utili</h2>
           <p>Durante la cerimonia religiosa, per favore, sii nostro ospite. A catturare i momenti speciali penserà il
-            fotografo,
-            Grazie</p>
+            fotografo.
+            Grazie.</p>
         </div>
       </div>
       <div class="row no-margin">

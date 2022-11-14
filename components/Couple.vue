@@ -32,7 +32,7 @@
             <h3>La proposta di matrimonio</h3>
             <p>Nell'Agosto 2021 sotto il cielo stellato della campagna siciliana, con voce tremante è stata formulata la
               fatidica
-              domanda." La risposta? SI!!</p>
+              domanda. La risposta? SI!!</p>
           </div>
         </div>
       </div>
