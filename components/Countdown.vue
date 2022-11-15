@@ -29,14 +29,14 @@ onMounted(() => {
 
 <template>
   <section class="simply-countdown simply-countdown-one">
-    <div class="simply-section simply-days-section">
-      <div><span class="simply-amount">{{months}}</span><span class="simply-word">mesi</span></div>
+    <div class="simply-section simply-days-section" v-if="months > 0">
+      <div><span class="simply-amount">{{ months }}</span><span class="simply-word">mese</span></div>
     </div>
     <div class="simply-section simply-days-section">
-      <div><span class="simply-amount">{{days}}</span><span class="simply-word">giorni</span></div>
+      <div><span class="simply-amount">{{ days }}</span><span class="simply-word">giorni</span></div>
     </div>
     <div class="simply-section simply-days-section">
-      <div><span class="simply-amount">{{hours}}</span><span class="simply-word">ore</span></div>
+      <div><span class="simply-amount">{{ hours }}</span><span class="simply-word">ore</span></div>
     </div>
     <!-- <div class="simply-section simply-days-section">
       <div><span class="simply-amount">{{minutes}}</span><span class="simply-word">minuti</span></div>
