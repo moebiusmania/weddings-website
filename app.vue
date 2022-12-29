@@ -17,20 +17,8 @@ useHead({
   link: [
     {
       rel: "icon",
-      href: "favicon-16.png",
-      type: "image/png",
-    },
-    {
-      rel: "icon",
-      href: "favicon-32.png",
-      type: "image/png",
-      size: "32"
-    },
-    {
-      rel: "icon",
       href: "favicon-64.png",
       type: "image/png",
-      size: "64"
     },
     {
       rel: 'stylesheet',

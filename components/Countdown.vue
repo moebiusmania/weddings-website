@@ -13,15 +13,15 @@ const getDifference = (): void => {
     end: new Date(2022, 11, 28, 11)
   });
 
-  months.value = difference.months
-  days.value = difference.days
-  hours.value = difference.hours
-  minutes.value = difference.minutes
+  months.value = difference.months as number
+  days.value = difference.days as number
+  hours.value = difference.hours as number
+  minutes.value = difference.minutes as number
 }
 
-onMounted(() => {
+onMounted((): void => {
   getDifference();
-  setInterval(() => {
+  setInterval((): void => {
     getDifference();
   }, 60000)
 })

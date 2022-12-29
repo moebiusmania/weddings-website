@@ -16,13 +16,10 @@ const link: string = `https://calendar.google.com/calendar/render?action=TEMPLAT
           <div class="display-t">
             <div class="display-tc animate-box" data-animate-effect="fadeIn">
               <h1>Lucia &amp; Francesco</h1>
-              <h2>Ci sposiamo tra</h2>
+              <!-- <h2>Ci sposiamo tra</h2>
               <Countdown />
               <p><a :href="link" target="_blank" rel="noopener nofollow" class="btn btn-default btn-sm">Save the
-                  date</a></p>
-              <!-- <p><a href="https://www.google.com/calendar" target="_blank" rel="noopener nofollow"
-                  class="btn btn-default btn-sm">Save
-                  the date (Apple Calendar)</a></p> -->
+                  date</a></p> -->
             </div>
           </div>
         </div>
